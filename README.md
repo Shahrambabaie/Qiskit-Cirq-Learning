@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🧮 QSiM: Quantum Simulator
 *A lightweight NumPy-based quantum circuit simulator inspired by Qiskit.*
 
@@ -104,3 +105,7 @@ Developed as a project for the **Quantum Seminar Course at the University at Buf
 ## 📜 License
 
 This project is released under the **MIT License**.
+=======
+# Qiskit-Learning
+Qiskit Samples
+>>>>>>> 3a48350906356ad26c50e190bc97213bec061f2e
