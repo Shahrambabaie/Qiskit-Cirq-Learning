@@ -1,4 +1,5 @@
-# 🧘 Quantum Circuit Samples Using Qiskit and Cirq
+# ⚛️ Quantum Circuit Samples Using Qiskit and Cirq
+
 
 This repository contains example implementations of quantum circuits using **Qiskit** and **Cirq**, two widely used quantum programming frameworks.  
 The purpose of this project is to demonstrate how to:
