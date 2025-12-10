@@ -39,14 +39,14 @@ Displaying the measurement distribution through:
 - A second histogram visualization with **red bars**  
 
 ---
-
+```
 ## 📂 Project Structure
 Quantum-Circuit-Samples/
 │── Qiskit_Samples.ipynb # Example circuits implemented using Qiskit
 │── Cirq_Samples.ipynb # Example circuits implemented using Cirq
 │── README.md # Project documentation
 
-
+```
 
 ---
 
